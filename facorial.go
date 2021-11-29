@@ -7,6 +7,6 @@ func main() {
 	for i := 4; i > 0; i-- {
 		factorial = factorial * i
 	}
-	fmt.Println(factorial)
+	fmt.Println(factorial) //fac
 
 }
